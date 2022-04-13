@@ -3,56 +3,15 @@ body{
 
     padding: 0;
     gap: 0;
-    background-color: BLACK;
+    background-color: #92FF6C;
 }
 
 
-header{
+.box-verde{
     position: relative;
-    left: 300px;
-    width: 916px;
-    height: 60px;
-    position: relative;
-    display: flex;
-    background-color: #E3B43A;
-    border-radius: 53px;
-    justify-content: center;
-    align-items: center;
-}
-
-.title-inicial{
-    font-size: 30px;
-    text-transform: uppercase;
-    line-height: 36px;
-    color: black;
-}
-
-.box-branca{
-    top: 60px;
-    position: relative;
-    left: 500px;
-    height: 357px;
-    border-radius: 25px;
-    width: 494px;
-    background-color: white;
-    display: flex;
-    flex-direction: row;
-}
-
-form{
-    display: flex;
-    flex-direction: column;
-    position: relative;
-    left: 30px;
-    top: 84px;
-    left: 129px;
-}
-
-.text-form{
-    color: black;
-}
-
-.btn-enviar{
-    position: relative;
-    top: 30px;
+    left: 400px;
+    top: 70px;
+    width:  700px;
+    height: 400px;
+    background-color: gray;
 }
